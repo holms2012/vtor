@@ -1,0 +1,14 @@
+vless://aeab4d43-6c4a-46ac-d08d-55807d70442d@direct1.shjvtor.ir:2096?encryption=none&security=tls&sni=direct.shjvtor.ir&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=tcp&headerType=none#al01-hq2udsqo4-
+vless://aeab4d43-6c4a-46ac-d08d-55807d70442d@direct.shjvtor.ir:2096?encryption=none&security=tls&sni=direct.shjvtor.ir&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=tcp&headerType=none#al01-hq2udsqo4-a
+vless://aeab4d43-6c4a-46ac-d08d-55807d70442d@mtnc.ircf.space:2096?encryption=none&security=tls&sni=direct.shjvtor.ir&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=tcp&headerType=none#al01-hq2udsqo4-mtn
+vless://aeab4d43-6c4a-46ac-d08d-55807d70442d@104.20.16.45:2096?encryption=none&security=tls&sni=direct.shjvtor.ir&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=tcp&headerType=none#al01-hq2udsqo4-
+vless://aeab4d43-6c4a-46ac-d08d-55807d70442d@mcic.ircf.space:2096?encryption=none&security=tls&sni=direct.shjvtor.ir&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=tcp&headerType=none#al01-hq2udsqo4-
+vless://aeab4d43-6c4a-46ac-d08d-55807d70442d@rtl.ircf.space:2096?encryption=none&security=tls&sni=direct.shjvtor.ir&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=tcp&headerType=none#al01-hq2udsqo4-
+vless://aeab4d43-6c4a-46ac-d08d-55807d70442d@cdn1.shjvtor.ir:2096?encryption=none&security=tls&sni=direct.shjvtor.ir&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=tcp&headerType=none#al01-hq2udsqo4-
+vless://aeab4d43-6c4a-46ac-d08d-55807d70442d@104.18.19.6:2096?encryption=none&security=tls&sni=direct.shjvtor.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#al01-hq2udsqo4-
+vless://aeab4d43-6c4a-46ac-d08d-55807d70442d@104.17.199.126:443?encryption=none&security=tls&sni=direct.shjvtor.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws#al01-hq2udsqo4-
+trojan://ucvBNIdkJW@direct.shjvtor.ir:59269?security=reality&sni=microsoft.com&fp=chrome&pbk=hFOSlL1VtUdlBC7vpGVfLVG5McmOwvKbs5PXALCJsSY&sid=d6&spx=%2F&type=tcp&headerType=none#trojan-oicfmh
+trojan://ucvBNIdkJW@direct.shjvtor.ir:59269?security=reality&sni=microsoft.com&fp=chrome&pbk=hFOSlL1VtUdlBC7vpGVfLVG5McmOwvKbs5PXALCJsSY&sid=d6&spx=%2F&type=grpc#trojan-oicfmh
+trojan://uVvC6QVsM5@direct.shjvtor.ir:58734?security=tls&sni=direct.shjvtor.ir&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=tcp&headerType=none#tr-i381i4
+trojan://uVvC6QVsM5@mcic.ircf.space:58734?security=tls&sni=direct.shjvtor.ir&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=tcp&headerType=none#tr-i381i4
+trojan://uVvC6QVsM5@mtnc.ircf.space:58734?security=tls&sni=direct.shjvtor.ir&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&type=tcp&headerType=none#tr-i381i4
