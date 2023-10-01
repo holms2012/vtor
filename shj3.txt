@@ -4,6 +4,8 @@ https://github.com/2dust/v2rayNG/releases
 
 https://github.com/GFW-knocker/MahsaNG/releases
 
+https://github.com/hiddify/hiddify-next/releases
+
 ----------------------------------------------------------------------------------
 
 https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix
