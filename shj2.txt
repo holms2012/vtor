@@ -11,17 +11,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImdycGMzLXp0bHhuMXdsIiwNCiAgImFkZCI6ICJk
 trojan://lyDQfoFaB2@direct1.shjvtor.cloud:10611?security=none&type=tcp&headerType=http&host=divar.ir#tcp5-uoadul5c
 trojan://siNSuPrzLH@direct1.shjvtor.cloud:10610?security=tls&sni=direct1.shjvtor.cloud&alpn=http%2F1.1%2Ch2&fp=edge&type=ws&host=divar.ir&path=%2F#ws5-0hr2cg1o
 trojan://oarQWbv7eW@direct1.shjvtor.cloud:10609?security=tls&sni=direct1.shjvtor.cloud&alpn=http%2F1.1%2Ch2&fp=chrome&type=grpc&serviceName=pol&mode=gun#grpc4-fyi9g8u8
-
-vless://bd189ea5-e2bb-4fcf-93d3-cac88c0e891a@direct1.shjvtor.cloud:10619?type=tcp&path=%2F&host=divar.ir&headerType=http&security=none#30dlm2t7
-vless://373bad31-6919-4019-92b2-32632cf96fbb@direct1.shjvtor.cloud:10619?type=tcp&path=%2F&host=divar.ir&headerType=http&security=none#qiv9j6fx
-vless://8986bf89-7a02-4ebc-abd0-36acef2103a3@direct1.shjvtor.cloud:10618?type=ws&path=%2F&security=none#y1g3fjtz
-vless://373bad31-6919-4019-92b2-32632cf96fbb@direct1.shjvtor.cloud:10618?type=ws&path=%2F&security=none#nthk5vt8
-vless://b534bbe4-ebec-4435-ab93-28657c58c10e@direct1.shjvtor.cloud:10617?type=ws&path=%2F&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&allowInsecure=1&sni=direct1.shjvtor.cloud#ws2-c424fkm7
-vless://3cb85577-361a-4f4f-ab2d-e32fa50315e6@direct1.shjvtor.cloud:10616?type=ws&path=%2F&host=divar.ir&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=direct1.shjvtor.cloud#ws3-esl7kp53
-vless://627fdd46-52e6-4d8b-8ffc-d3db2b0bbdca@direct1.shjvtor.cloud:10615?type=grpc&serviceName=p&security=tls&fp=android&alpn=http%2F1.1%2Ch2&sni=direct1.shjvtor.cloud#grpc1-bc6ol6sc
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0Y3AyLWdlamNlaHZjIiwKICAiYWRkIjogImRpcmVjdDEuc2hqdnRvci5jbG91ZCIsCiAgInBvcnQiOiAxMDYxNCwKICAiaWQiOiAiZmU2ODRlOGItYTQyZi00NDZjLWI3OTQtM2I0OThkMWI5OGZhIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJkaXZhci5pciIKfQ==
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ3czItam05ZTF6czIiLAogICJhZGQiOiAiZGlyZWN0MS5zaGp2dG9yLmNsb3VkIiwKICAicG9ydCI6IDEwNjEzLAogICJpZCI6ICI1NGRkMjQ1ZC0xZTliLTQ2YjQtYjZkNC0xYjhjMGY5ZjAwMzYiLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJodHRwIiwKICAidGxzIjogInRscyIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAiZGl2YXIuaXIiLAogICJzbmkiOiAiZGlyZWN0MS5zaGp2dG9yLmNsb3VkIiwKICAiZnAiOiAiaW9zIiwKICAiYWxwbiI6ICJodHRwLzEuMSxoMiIKfQ==
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJncnBjMy16dGx4bjF3bCIsCiAgImFkZCI6ICJkaXJlY3QxLnNoanZ0b3IuY2xvdWQiLAogICJwb3J0IjogMTA2MTIsCiAgImlkIjogIjZiOTg2NDkyLTdlMjgtNGY2Ni1iZjVmLWUyMWUxNGY1MzZmYiIsCiAgIm5ldCI6ICJncnBjIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgInBhdGgiOiAiIiwKICAic25pIjogImRpcmVjdDEuc2hqdnRvci5jbG91ZCIsCiAgImZwIjogImFuZHJvaWQiLAogICJhbHBuIjogImh0dHAvMS4xLGgyIgp9
-trojan://lyDQfoFaB2@direct1.shjvtor.cloud:10611?type=tcp&path=%2F&host=divar.ir&headerType=http&security=none#tcp5-uoadul5c
-trojan://siNSuPrzLH@direct1.shjvtor.cloud:10610?type=ws&path=%2F&host=divar.ir&security=tls&fp=edge&alpn=http%2F1.1%2Ch2&sni=direct1.shjvtor.cloud#ws5-0hr2cg1o
-trojan://oarQWbv7eW@direct1.shjvtor.cloud:10609?type=grpc&serviceName=pol&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=direct1.shjvtor.cloud#grpc4-fyi9g8u8
