@@ -1,11 +1,8 @@
 
-
-vless://105880c1-b878-4f90-9e7a-edccf298d7c9@bpb.holms752166.workers.dev:443?encryption=none&security=tls&sni=bpB.HOlMs752166.woRkERS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bPb.HoLMS752166.WORKerS.DeV&path=%2FcOb2baMWA-wZyog-%3Fed%3D2048#Worker%20-%20bpb.holms752166.workers.dev
-vless://105880c1-b878-4f90-9e7a-edccf298d7c9@www.speedtest.net:443?encryption=none&security=tls&sni=bpb.holMs752166.wOrkeRs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bPB.HOLms752166.wORkERS.Dev&path=%2FqqbX-yRSRxCs8jUV%3Fed%3D2048#Worker%20-%20www.speedtest.net
-vless://105880c1-b878-4f90-9e7a-edccf298d7c9@45.131.210.40:443?encryption=none&security=tls&sni=BpB.hoLms752166.worKErS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bPb.hOlmS752166.woRkerS.dEv&path=%2Fm-E1--zeUd7DP-QJ%3Fed%3D2048#Worker%20-%2045.131.210.40
-vless://105880c1-b878-4f90-9e7a-edccf298d7c9@104.21.16.202:443?encryption=none&security=tls&sni=Bpb.hOlmS752166.WOrkerS.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=Bpb.holMs752166.WorKeRs.DeV&path=%2FdTfNJN-5aQEeQVij%3Fed%3D2048#Worker%20-%20104.21.16.202
+vless://105880c1-b878-4f90-9e7a-edccf298d7c9@172.67.215.231:443?encryption=none&security=tls&sni=bpB.hOLMs752166.wORKeRs.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=BPB.Holms752166.woRKErS.DEv&path=%2FPvRnXj_ejFExVXbr%3Fed%3D2048#Worker%20-%20172.67.215.231
 vless://105880c1-b878-4f90-9e7a-edccf298d7c9@[2606:4700:3033::6815:10ca]:443?encryption=none&security=tls&sni=bpb.holmS752166.worKeRS.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bpB.hoLms752166.WORkErs.Dev&path=%2FpP_aTxZDing7fBih%3Fed%3D2048#Worker%20-%20%5B2606%3A4700%3A3033%3A%3A6815%3A10ca%5D
 vless://105880c1-b878-4f90-9e7a-edccf298d7c9@[2606:4700:3030::ac43:d7e7]:443?encryption=none&security=tls&sni=BPB.holmS752166.WORKErs.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bpB.hOlMs752166.woRKERs.dEV&path=%2FwBvqgus7GjMl3iK8%3Fed%3D2048#Worker%20-%20%5B2606%3A4700%3A3030%3A%3Aac43%3Ad7e7%5D
+
 
 
 vless://1403b695-2446-4032-9356-deb9be100690@seramo.aban-a58.workers.dev:80?encryption=none&security=none&fp=random&type=ws&host=seramo.aban-a58.workers.dev&path=%2FugcuhSRzwjjOJZKiyNHXaOmjskvwKsZJLlMlYtcFQxEcBPmOJbfAXJTyhxt#V2RAY_CONF-80
