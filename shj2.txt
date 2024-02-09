@@ -16,6 +16,14 @@ vless://982608b2-4a03-416e-bfbf-02d8a02fffd9@direct1.shjvtor.cloud:10608?type=tc
 vless://cd7f3e3c-24ee-4a32-9006-27f879149280@direct1.shjvtor.cloud:10607?type=tcp&security=reality&fp=chrome&pbk=BGKsy5hb92XLgDiQkIWt-1r5g5O-rKgHruK5i5MbmFo&sni=www.ghbi.ir&sid=0851c6b0&spx=%2F#reality2-zwt50vdn
 vless://45a0424e-2a4d-4cf6-9d33-ed1aa708ed3d@direct1.shjvtor.cloud:10606?type=grpc&serviceName=&security=reality&fp=chrome&pbk=M_Be6E1S0SC6FXci65Hs4ZKSNeWsR-LR7iyjaDcdNS0&sni=www.ghbi.ir&sid=0851c6b0&spx=%2F#reality3-nszvdnem
 
+vless://105880c1-b878-4f90-9e7a-edccf298d7c9@bpb.holms752166.workers.dev:443?encryption=none&security=tls&sni=bpB.HOlMs752166.woRkERS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bPb.HoLMS752166.WORKerS.DeV&path=%2FcOb2baMWA-wZyog-%3Fed%3D2048#Worker%20-%20bpb.holms752166.workers.dev
+vless://105880c1-b878-4f90-9e7a-edccf298d7c9@www.speedtest.net:443?encryption=none&security=tls&sni=bpb.holMs752166.wOrkeRs.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bPB.HOLms752166.wORkERS.Dev&path=%2FqqbX-yRSRxCs8jUV%3Fed%3D2048#Worker%20-%20www.speedtest.net
+vless://105880c1-b878-4f90-9e7a-edccf298d7c9@45.131.210.40:443?encryption=none&security=tls&sni=BpB.hoLms752166.worKErS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bPb.hOlmS752166.woRkerS.dEv&path=%2Fm-E1--zeUd7DP-QJ%3Fed%3D2048#Worker%20-%2045.131.210.40
+vless://105880c1-b878-4f90-9e7a-edccf298d7c9@104.21.16.202:443?encryption=none&security=tls&sni=Bpb.hOlmS752166.WOrkerS.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=Bpb.holMs752166.WorKeRs.DeV&path=%2FdTfNJN-5aQEeQVij%3Fed%3D2048#Worker%20-%20104.21.16.202
+vless://105880c1-b878-4f90-9e7a-edccf298d7c9@[2606:4700:3033::6815:10ca]:443?encryption=none&security=tls&sni=bpb.holmS752166.worKeRS.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bpB.hoLms752166.WORkErs.Dev&path=%2FpP_aTxZDing7fBih%3Fed%3D2048#Worker%20-%20%5B2606%3A4700%3A3033%3A%3A6815%3A10ca%5D
+vless://105880c1-b878-4f90-9e7a-edccf298d7c9@[2606:4700:3030::ac43:d7e7]:443?encryption=none&security=tls&sni=BPB.holmS752166.WORKErs.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bpB.hOlMs752166.woRKERs.dEV&path=%2FwBvqgus7GjMl3iK8%3Fed%3D2048#Worker%20-%20%5B2606%3A4700%3A3030%3A%3Aac43%3Ad7e7%5D
+
+
 vless://1403b695-2446-4032-9356-deb9be100690@seramo.aban-a58.workers.dev:80?encryption=none&security=none&fp=random&type=ws&host=seramo.aban-a58.workers.dev&path=%2FugcuhSRzwjjOJZKiyNHXaOmjskvwKsZJLlMlYtcFQxEcBPmOJbfAXJTyhxt#V2RAY_CONF-80
 vless://1403b695-2446-4032-9356-deb9be100690@seramo.aban-a58.workers.dev:8080?encryption=none&security=none&fp=random&type=ws&host=seramo.aban-a58.workers.dev&path=%2FugcuhSRzwjjOJZKiyNHXaOmjskvwKsZJLlMlYtcFQxEcBPmOJbfAXJTyhxt#V2RAY_CONF-8080
 vless://1403b695-2446-4032-9356-deb9be100690@seramo.aban-a58.workers.dev:8880?encryption=none&security=none&fp=random&type=ws&host=seramo.aban-a58.workers.dev&path=%2FugcuhSRzwjjOJZKiyNHXaOmjskvwKsZJLlMlYtcFQxEcBPmOJbfAXJTyhxt#V2RAY_CONF-8880
