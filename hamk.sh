@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 # Colors
 yellow='\033[0;33m'
 purple='\033[0;35m'
