@@ -157,3 +157,5 @@ vless://7585f059-2c89-4a02-9dff-394bb7913ef5@whatismyipaddress.com:2096?encrypti
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.129.67:8443?encryption=none&security=tls&sni=vle.amclubsdns.dpdns.org&fp=randomized&allowInsecure=1&type=ws&host=vle.amclubsdns.dpdns.org&path=%2F%3Fed%3D2560#qoli_11
 vless://4b33b482-25bc-49e4-b866-878c914d945a@iiiiiiiiiiio.huangshang.dpdns.org:443?encryption=none&security=tls&sni=iIiiIiiIiIIO.HuanGsHaNg.dpDns.ORG&fp=random&allowInsecure=1&type=ws&host=iiiiiiiiiiio.huangshang.dpdns.org&path=%2FCpMgWdnDWahQyyQCjn8kmnN0ehd#qoli_61
 vless://600eae54-5014-40a2-99f3-215ff340c26d@test.yoyohihi.com:57107?encryption=none&security=none&fp=chrome&allowInsecure=1&type=tcp&headerType=http&host=speedtest.net#qoli_23
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.135:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#Free-10%20-%20--%20%40iTZVPN
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#Free-11%20-%20--%20%40iTZVPN
