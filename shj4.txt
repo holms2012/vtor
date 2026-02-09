@@ -1,3 +1,10 @@
+https://www.instagram.com/p/ANY_POST_ID/
+https://www.instagram.com/favicon.ico
+https://graph.facebook.com
+
+https://cachefly.cachefly.net/50mb.test 
+https://www.google.com/generate_204
+
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/list/00.txt
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all4
 https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
