@@ -1,3 +1,11 @@
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.204:26480?encryption=none&security=none&type=tcp&headerType=none#%20%F0%9F%94%92%20%5BBy%20EbraSha%5D
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.204:26480?encryption=none&security=none&type=tcp&headerType=none#%20%F0%9F%94%92%20%5BBy%20EbraSha%5D
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.206:26480?encryption=none&security=none&type=tcp&headerType=none#%20%F0%9F%94%92%20%5BBy%20EbraSha%5D
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.206:26480?encryption=none&security=none&type=tcp&headerType=none#%20%F0%9F%94%92%20%5BBy%20EbraSha%5D
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.206:26480?encryption=none&security=none&type=tcp&headerType=none#%20%F0%9F%94%92%20%5BBy%20EbraSha%5D
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.136:26480?encryption=none&security=none&type=tcp&headerType=none#%20%F0%9F%94%92%20%5BBy%20EbraSha%5D
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.193:26480?encryption=none&security=none&type=tcp&headerType=none#%20%F0%9F%94%92%20%5BBy%20EbraSha%5D
+
 vless://6a3df9d6-7b68-444e-a6df-f01053912c30@173.245.59.190:80?encryption=none&security=none&type=ws&host=sefaefawafa.ydyoeieiwhgi.workers.dev&path=%2FeyJqdW5rIjoiNEhiZlQ5dmVmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTAuMTU2LjIyMS41NCJdfQ%3D%3D#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-15108
 vless://2606539e-0e12-410d-89c3-390903492637@rotlnx.meindustries.ir:7799?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-476
 vless://ef14978e-33e8-43a4-a2e4-a7b6dc1e5f1c@sos2.iranapi.site:9090?encryption=none&security=none&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7%20IR-451
@@ -193,6 +201,7 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=%F0%9F%94%92%20%
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%20%F0%9F%94%92%20%5BBy%20EbraSha%5D
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%20%F0%9F%94%92%20%5BBy%20EbraSha%5D
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&allowInsecure=1#%20%F0%9F%94%92%20%5BBy%20EbraSha%5D
+
 
 
 
