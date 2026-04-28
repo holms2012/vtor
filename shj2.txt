@@ -1,3 +1,12 @@
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.121:10369?security=tls&sni=fra33.chasem2026sud.com&fp=random&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20DE%20%7C%20975ms%20%7C%20%F0%9F%87%A9%F0%9F%87%AA15184%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20=%20t.me/SOSkeyNET
+socks://188.121.101.115:1080#https://t.me/Configir98
+vmess://eyJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMjU0NzIxYTktNTczOS00YmFmLWIzNWQtOWJjOTUwZTM0NmRiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS9kaXJlY3QiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4eu8J+HtzE4MzIwIHwg4pqh77iPVGVsZWdyYW0gPSB0Lm1lL1NPU2tleU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#@filembad
+
+
+
+
+
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?security=tls&sni=sni.111000.v6.navy&allowInsecure=1&fp=randomized&type=ws&host=sni.111000.v6.navy&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C@VpnMaan
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?security=tls&sni=sni.111000.v6.navy&allowInsecure=1&fp=randomized&type=ws&host=sni.111000.v6.navy&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20@VpnMaan
 trojan://humanity@104.18.12.149:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&fp=randomized&type=ws&path=/assignment&host=www.gossipglove.com#%E2%98%81%EF%B8%8F%20Cloudflare%20%7C%20@VpnMaan
