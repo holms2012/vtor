@@ -4,6 +4,7 @@ vmess://eyJhZGQiOiJtaWctc2luLmRhcmt1YmUuaXIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#@filembad
 vless://eee8c800-7df8-40c9-b729-7f47a5be1608@vitallife.gg:443?security=tls&sni=vitallife.gg&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/wp-content/cachecache&host=vitallife.gg&encryption=none#%F0%9F%87%AE%F0%9F%87%B718219%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20=%20t.me/SOSkeyNET
 vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=&fp=randomized&type=ws&host=vixon.portab.org&encryption=none#https://t.me/Configir98
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@dkstatics-public.digikala.com:443
 
 
 
