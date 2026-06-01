@@ -22,7 +22,18 @@ hy2://Masir_Sefid@18.159.66.5:443?obfs=salamander&obfs-password=Masir_Sefid&sni=
 hy2://Masir_Sefid@18.159.66.5:443?obfs=salamander&obfs-password=Masir_Sefid&sni=qus.masir-sefid.shop#@filembad
 hy2://Masir_Sefid@18.159.66.5:1040?obfs=salamander&obfs-password=Masir_Sefid&sni=qus.masir-sefid.shop#@filembad
 hy2://Masir_Sefid@18.159.66.5:443?obfs=salamander&obfs-password=Masir_Sefid&sni=qus.masir-sefid.shop#@filembad
-
+vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.160:443?security=tls&sni=ssj.new-persian-song.ir&fp=chrome&type=ws&path=/?ed%3D80&host=ssj.new-persian-song.ir&encryption=none#@filembad
+hy2://Masir_Sefid@18.159.66.5:444?obfs=salamander&obfs-password=Masir_Sefid&sni=qus.masir-sefid.shop#@filembad
+vless://3ff8a900-6102-401d-a003-f65be762c1fc@web.subster.ir:2053?security=tls&sni=nazanMano.x-upload.org&type=ws&path=/&host=nazanMano.x-upload.org&encryption=none#@filembad
+vless://3ff8a900-6102-401d-a003-f65be762c1fc@amberpulse9.x-upload.org:2096?security=tls&sni=amberpulse9.x-upload.org&type=ws&path=/&host=amberpulse9.x-upload.org&encryption=none#@filembad
+vless://3ff8a900-6102-401d-a003-f65be762c1fc@45.130.125.76:2096?security=tls&sni=KhoshAmadid.x-upload.org&type=ws&path=/&host=KhoshAmadid.x-upload.org&encryption=none#@filembad
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=&type=tcp&encryption=none#@filembad
+vless://3ff8a900-6102-401d-a003-f65be762c1fc@45.130.125.160:8443?security=tls&sni=AfarinBeShoma.x-upload.org&type=ws&path=/ws&host=AfarinBeShoma.x-upload.org&encryption=none#@filembad
+hy2://Masir_Sefid@18.159.66.5:443?obfs=salamander&obfs-password=Masir_Sefid&sni=qus.masir-sefid.shop#@filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSakdfUGQ1MzRaVkpSTWRPRGpDTk1B@45.92.218.56:1080#%F0%9F%87%AB%F0%9F%87%B743063%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20=%20t.me/SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OU5RUkZnN1BjeWJrbDlGckR4cWo1@193.17.57.155:443#%F0%9F%87%AB%F0%9F%87%B743050%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20=%20t.me/SOSkeyNET
+vless://1a1ba419-2593-478f-af7c-405640a496c7@snapp.ir:80?security=&type=ws&path=/&host=ith1.netemon.ir&encryption=none#%F0%9F%87%AE%F0%9F%87%B743035%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20=%20t.me/SOSkeyNET
+trojan://y5yef0udbqnu7sym@45.130.125.76:443?security=tls&sni=dashboard.nscl.ir&alpn=http/1.1&allowInsecure=1&fp=firefox&type=ws&path=/dashboard&host=dashboard.nscl.ir#%F0%9F%87%B8%F0%9F%87%A842999%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20=%20t.me/SOSkeyNET
 
 
 
