@@ -1,3 +1,5 @@
+vless://b17972db-cd5b-464d-bb52-3dc99838adb9@172.64.146.15:80?security=&fp=chrome&type=httpupgrade&path=/&host=boobool.hrb.cd.am&encryption=none#cdn-@goodbye_filtering
+
 trojan://Nova-Proxy@31.133.0.122:8443?security=tls&sni=broad-lab-d61d.airdrop2014aa5168.workers.dev&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=broad-lab-d61d.airdrop2014aa5168.workers.dev#Nova-b1x2o
 trojan://Nova-Proxy@104.26.10.242:8443?security=tls&sni=broad-lab-d61d.airdrop2014aa5168.workers.dev&allowInsecure=1&fp=random&type=ws&path=/?ed%3D2560&host=broad-lab-d61d.airdrop2014aa5168.workers.dev#Nova-Ov247
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#APPXA
