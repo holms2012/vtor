@@ -1,3 +1,4 @@
+vless://b17972db-cd5b-464d-bb52-3dc99838adb9@104.18.41.241:80?security=&fp=chrome&type=httpupgrade&path=/&host=boobool.hrb.cd.am&encryption=none#cdn-@goodbye_filtering
 vless://b17972db-cd5b-464d-bb52-3dc99838adb9@172.64.146.15:80?security=&fp=chrome&type=httpupgrade&path=/&host=boobool.hrb.cd.am&encryption=none#cdn-@goodbye_filtering
 vless://8f14fe91-e3a3-451a-9181-71b931b07117@185.143.235.200:2086?security=&type=ws&path=/&host=loveispain.movieda-farsi.ir&encryption=none#@filembad
 trojan://y5yef0udbqnu7sym@45.130.125.76:443?security=tls&sni=dashboard.nscl.ir&alpn=http/1.1&allowInsecure=1&fp=firefox&type=ws&path=/dashboard&host=dashboard.nscl.ir#@filembad
