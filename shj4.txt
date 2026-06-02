@@ -1,3 +1,5 @@
+vless://39def2c7-56e5-452a-87aa-fad7cb10bef6@151.101.110.219:443?security=tls&sni=speedtest.net&allowInsecure=1&fp=chrome&type=ws&path=/&host=nleiyajji.global.ssl.fastly.net&encryption=none#@filembad
+
 vless://b17972db-cd5b-464d-bb52-3dc99838adb9@104.18.41.241:80?security=&fp=chrome&type=httpupgrade&path=/&host=boobool.hrb.cd.am&encryption=none#cdn-@goodbye_filtering
 vless://b17972db-cd5b-464d-bb52-3dc99838adb9@172.64.146.15:80?security=&fp=chrome&type=httpupgrade&path=/&host=boobool.hrb.cd.am&encryption=none#cdn-@goodbye_filtering
 vless://8f14fe91-e3a3-451a-9181-71b931b07117@185.143.235.200:2086?security=&type=ws&path=/&host=loveispain.movieda-farsi.ir&encryption=none#@filembad
