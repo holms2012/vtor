@@ -1,6 +1,7 @@
 vless://b17972db-cd5b-464d-bb52-3dc99838adb9@172.64.146.15:80?security=&fp=chrome&type=httpupgrade&path=/&host=boobool.hrb.cd.am&encryption=none#cdn-@goodbye_filtering
 vless://39def2c7-56e5-452a-87aa-fad7cb10bef6@151.101.110.219:443?security=tls&sni=speedtest.net&allowInsecure=1&fp=chrome&type=ws&path=/&host=nleiyajji.global.ssl.fastly.net&encryption=none#@filembad
 trojan://humanity@185.231.112.217:40443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment&host=www.ignitelimit.com#@vipconfingh
+vless://a1af1d5d-7a55-489b-a3a7-ab98f753051e@188.121.120.186:8880?security=reality&sni=speedtest.net&fp=chrome&pbk=z_Rz6-koPiXZSh6LhUglZAK7kMhV4i5TCgJs-jAJEwI&sid=ab61d9e9&spx=/6eV5m95MkkPEI4v&type=grpc&serviceName=speedup&encryption=none#@filembad
 
 
 trojan://humanity@185.231.112.217:40443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment&host=www.ignitelimit.com#@vipconfingh
