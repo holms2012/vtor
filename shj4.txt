@@ -1,5 +1,10 @@
 vless://39def2c7-56e5-452a-87aa-fad7cb10bef6@151.101.110.219:443?security=tls&sni=speedtest.net&allowInsecure=1&fp=chrome&type=ws&path=/&host=nleiyajji.global.ssl.fastly.net&encryption=none#@filembad
-
+vless://67580242-b2fc-4dba-9f42-da2d05d9ab3e@45.130.125.160:443?security=tls&sni=ssj.new-persian-song.ir&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D80&host=ssj.new-persian-song.ir&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://39def2c7-56e5-452a-87aa-fad7cb10bef6@151.101.110.219:443?security=tls&sni=speedtest.net&allowInsecure=1&type=ws&path=/&host=nleiyajji.global.ssl.fastly.net&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?security=&type=ws&path=/&host=vms.lifetime07.workers.dev&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?security=tls&sni=backend.parhamm2.ir&allowInsecure=1&fp=chrome&type=ws&path=/&host=backend.parhamm2.ir&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://4da72a60-61b9-4571-a054-1bba24bf6728@151.101.110.219:443?security=tls&sni=speedtest.net&allowInsecure=1&type=ws&path=/&host=nesfeshzksab.global.ssl.fastly.neT.&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://111ff361-01ae-43a6-9a70-37a177adb989@188.114.97.6:80?security=&type=ws&path=/in-pdr&host=cache.netflix.com.cyylr.eu.cc&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 vless://b17972db-cd5b-464d-bb52-3dc99838adb9@104.18.41.241:80?security=&fp=chrome&type=httpupgrade&path=/&host=boobool.hrb.cd.am&encryption=none#cdn-@goodbye_filtering
 vless://b17972db-cd5b-464d-bb52-3dc99838adb9@172.64.146.15:80?security=&fp=chrome&type=httpupgrade&path=/&host=boobool.hrb.cd.am&encryption=none#cdn-@goodbye_filtering
 vless://8f14fe91-e3a3-451a-9181-71b931b07117@185.143.235.200:2086?security=&type=ws&path=/&host=loveispain.movieda-farsi.ir&encryption=none#@filembad
