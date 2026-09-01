@@ -1,5 +1,14 @@
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@vv.alertyagency.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=LubLmalkyXoDFKxVQLtf1mh5cVK7W8K-MeNQf6ZDQ2I&sid=9e354fd8&type=tcp&headerType=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%ADTH-103.169.67.34-0160
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@118.107.222.231:65443#%F0%9F%87%B2%F0%9F%87%BEMY-118.107.222.231-0180
+
+
+
+
+
+
+
+
 
 vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@vv.alertyagency.com:443?security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=LubLmalkyXoDFKxVQLtf1mh5cVK7W8K-MeNQf6ZDQ2I&sid=9e354fd8&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@103.169.67.34:65443#%F0%9F%87%B9%F0%9F%87%ADTH-103.169.67.34-0160
